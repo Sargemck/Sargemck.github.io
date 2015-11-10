@@ -1,0 +1,7 @@
+{
+  "name" : "Easy ReadWrite",
+  "version" : "0.0.1",
+  "scripts": {
+    "deploy": "gh-pages-deploy"
+  }
+}
