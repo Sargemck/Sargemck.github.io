@@ -4,3 +4,11 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 30px;
 }
+
+.text-muted {
+    color: #ccc;
+}
+
+.text-muted-dark {
+    color: #666;
+}
